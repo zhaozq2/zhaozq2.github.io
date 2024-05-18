@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 # 简介
 大家好，我是 zhiqiang zhao, 一位资深程序员、架构师。目前从事工业互联平台架构设计，大数据计算和SaaS开发
 
