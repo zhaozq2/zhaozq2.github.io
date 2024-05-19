@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: zhaozq2/zhaozq2.github.io
+    repo_id: R_kgDOL9J7XQ
+    category: Announcements
+    category_id: DIC_kwDOL9J7Xc4Cfccq
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
