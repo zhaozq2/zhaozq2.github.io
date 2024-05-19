@@ -5,5 +5,6 @@ categories: [other]
 tag: [first, test]
 math: true
 description: first blog.
+comments: true
 ---
 ## Hello my blog
