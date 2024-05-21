@@ -10,7 +10,7 @@ comments: true
 ## 1. 前言
 这几天一直在搭建自己的个人博客，经过几天的努力，我的个人博客[zhaozq2的博客](https://zhaozq2.github.io/)也终于和大家见面了,欢迎大家来访，也请大家多提宝贵意见。
 
-搭建过程经历初步熟悉，寻找确定主题，自定义主题三个阶段，我把整个过程记录下，一方面是自己的总结，另一方面也方便大家搭建自己博客
+搭建过程经历初步熟悉，寻找确定主题，自定义主题三个阶段，我把整个过程记录下，一方面是自己的总结，另一方面也方便大家搭建自己博客参考
 ## 2.步骤
 1. 确认技术 github Pages和Jekyll
 2. 注册[Github](https://github.com/) 帐号
@@ -35,4 +35,4 @@ comments: true
     <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
    ```
  ## 5.修改 favicons
- assets/favicons/下创建各种png，ico文件。具体可以根据[教程](https://chirpy.cotes.page/posts/customize-the-favicon/)创建，然后拷贝到对应位置即可
+ assets/favicons/下创建各种png，ico文件。具体可以根据[教程](https://chirpy.cotes.page/posts/customize-the-favicon/)创建，然后拷贝到对应位置 
