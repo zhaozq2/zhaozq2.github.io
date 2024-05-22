@@ -1,7 +1,7 @@
 ---
 title:      "一辫蒜"
 date:       2024-05-22
-categories: [blog]
+categories: [情感]
 tag: [情感]
 math: true
 description: 请述我与一辫蒜的故事.
