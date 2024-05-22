@@ -18,16 +18,18 @@ comments: true
 4. 选择符合自己的博客主题，可从[Jekyll 主题资源](https://jekyllrb.com/resources/)选择，也可从[Github](https://github.com/)寻找
 5. 确实主题 我选择使用[chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 作为个人博客主题
 6. 定制化主题。
+
 ## 3.增加评论区
  评论区，模板作者已经将相关功能封装好了，目前支持disqus | utterances | giscus三种，在 _config.yml 文件中填上个人信息即可，我选择使用giscus.
  giscus 配置过程详见[giscus](https://giscus.app/zh-CN),根据流程一部分一部分来即可
+
  ## 4.增加站点统计
    使用[不蒜子](https://busuanzi.ibruce.info/)进行UV,PV统计分两步
    1. 直接将_includes/footer.html文件拷贝到你的代码项目对应的位置，在文件中间插入
-   ```html
+   ```
    <p> 
-  {% include footer-busuanzi.html %}
-</p>
+    {% include footer-busuanzi.html %}
+  </p>
    ```
    2. 新建_includes/footer-busuanzi.html，写入内容
    ```html
