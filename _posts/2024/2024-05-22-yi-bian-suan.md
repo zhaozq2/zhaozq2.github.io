@@ -4,7 +4,7 @@ date:       2024-05-22
 categories: [blog]
 tag: [情感]
 math: true
-description: 使用chirpy搭建个人博客的详细过程.
+description: 请述我与一辫蒜的故事.
 comments: true
 ---
 ## 引言
