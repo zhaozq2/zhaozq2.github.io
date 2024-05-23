@@ -4,7 +4,7 @@ date:       2024-05-22
 categories: [情感]
 tag: [情感]
 math: true
-description: 请述我与一辫蒜的故事.
+description: 讲述我与一辫蒜的故事.
 comments: true
 ---
 ## 引言
